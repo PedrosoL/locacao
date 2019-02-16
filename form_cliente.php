@@ -1,7 +1,7 @@
 <?php
 	include("menu.php");
 ?>
-
+/sdafsa
 <fieldset>
 <legend>Inserir novo cliente</legend>
 <form method="post" action="insere_cliente.php">
