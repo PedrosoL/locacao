@@ -1,5 +1,5 @@
 <?php
-
+//sadfnivgn
     //local no qual o banco de dados está instalado
     $local = "localhost:3307";
     $usuario = "root";
